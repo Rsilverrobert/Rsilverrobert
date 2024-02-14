@@ -5,7 +5,7 @@
   
 <h2> Certifications</h2> 
 
-- <a href="https://www.credly.com/badges/fb7f237d-b942-4d9d-b987-b0b6387187a0/public_url">Cybersecurity Professional</a>
+- <a href="https://www.credly.com/badges/fb7f237d-b942-4d9d-b987-b0b6387187a0/public_url"> Google Cybersecurity</a>
 
 <h2> 🤳 Connect with me:</h2>
 
